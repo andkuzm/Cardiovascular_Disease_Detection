@@ -1,4 +1,4 @@
-**BreadcrumbsCardiovascular_Disease_Detection**
+**Cardiovascular_Disease_Detection**
 
 Author: Andrei Kuzmin
 
