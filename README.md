@@ -15,7 +15,7 @@ finalComplete.ipynb - notebook showing final model, and its scores,
 finalReduced.ipynb - notebook showing final model, and its scores, when given incomplete data, it is basically the same model, as training another one on incomplete dataset did not show any noticeable improvements, so it requires the same columns, but here the columns were changed, to simulate predicting for reduced amount and quality of data,
 
 
-finalTrulyReduced.ipynb - notebook, with model, trained on truly reduced data, instead of simulation, added after deadline.
+finalTrulyReduced.ipynb - notebook, with model, trained on truly reduced data, instead of simulation, added after deadline Also excluded chestpain, as it made predictions imbalanced, and it feels needless to predict the disease with reduced data, when chest pain appeared already.
 
 
 Kaggle page, with description of each feature: https://www.kaggle.com/datasets/jocelyndumlao/cardiovascular-disease-dataset/data
