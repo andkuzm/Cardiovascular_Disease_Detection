@@ -19,6 +19,8 @@ finalTrulyReduced.ipynb - notebook, with model, trained on truly reduced data, i
 
 
 finalCompleteNoChestpain.ipynb - notebook, with model for complete dataset, but excluding "chestpain", for the same reason as stated previously. added after deadline.
+
+
 finalReducedNoChestpain.ipynb - Also excluded chestpain, as it feels needless to predict the disease with reduced data, when chest pain appeared already, and it contradicts the original idea of knowing the chance of the disease happening before it happens. added after deadline.
 
 
